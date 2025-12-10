@@ -1,0 +1,7 @@
+.venv
+checkpoints*
+*.log
+*.csv
+merged_model*
+runs
+model_*
