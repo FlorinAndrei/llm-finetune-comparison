@@ -1,5 +1,9 @@
 Full fine-tuning of the Gemma3 LLM using a dataset with social media comments.
 
+The companion article for this repo is here:
+
+https://medium.com/towards-artificial-intelligence/llm-fine-tuning-lora-vs-full-fine-tuning-a-comparison-3aa1c1a0dc4d
+
 The following process works well on an NVIDIA DGX Spark with 20 ARM cores, 128 GB unified RAM, running Ubuntu 24.04 LTS, with CUDA-13.0 installed on bare metal.
 
 # Install dependencies
